@@ -1,0 +1,8 @@
+.app {
+  align-items: center;
+  background-color: gray;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  width: 100%;
+}

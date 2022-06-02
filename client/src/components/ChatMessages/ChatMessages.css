@@ -1,0 +1,13 @@
+.chat-messages {
+	border: 1px solid silver;
+}
+
+.message-line {
+	display: flex;
+	gap: 8px;
+	padding: 2px 8px;
+}
+
+.message-line__user {
+	font-weight: bold;
+}
